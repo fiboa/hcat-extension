@@ -12,9 +12,9 @@ This document explains the Hierarchical Crop and Agriculture Taxonomy (HCAT) Ext
 HCAT comes from the [Eurocrops](https://github.com/maja601/EuroCrops) project, which harmonized a
 number of European crop datasets. It provides a consistent schema for crop classification, covering
 almost 400 different crop types, and is currently on it's third iteration. You can see the core
-list of names and codes in [github.com/maja601/EuroCrops/blob/main/hcat_core/HCAT3.csv](https://github.com/maja601/EuroCrops/blob/main/hcat_core/HCAT3.csv). 
+list of names and codes in [github.com/maja601/EuroCrops/blob/main/hcat_core/HCAT3.csv](https://github.com/maja601/EuroCrops/blob/main/hcat_core/HCAT3.csv).
 Its goal is to harmonise all declared crops across the European Union, but it is likely a useful
-as crop classification taxonomy beyond Europe. 
+as crop classification taxonomy beyond Europe.
 
 Note that this extension does not attempt to use the exact same field names as Eurocrops, as they
 were designed for use with shapefiles, a restriction Fiboa does not share. This attempts to be
