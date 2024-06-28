@@ -36,8 +36,8 @@
   },
   "properties": {
     "determination_datetime": "2020-01-01T00:00:00Z",
-    "template:field1": 1,
-    "template:field2": "abc"
+    "ec:field1": 1,
+    "ec:field2": "abc"
   },
   "links": [
     {
