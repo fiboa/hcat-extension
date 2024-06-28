@@ -19,7 +19,7 @@ as crop classification taxonomy beyond Europe.
 Note that this extension does not attempt to use the exact same field names as Eurocrops, as they
 were designed for use with shapefiles, a restriction Fiboa does not share. This attempts to be
 more descriptive, and fit with the 'Fiboa style', reusing the 'EC_' prefix of the original fields,
-but adapting it to be `ec:``. But feedback is welcome, we could have it stay more true, or also
+but adapting it to be `ec:`. But feedback is welcome, we could have it stay more true, or also
 adapt it more (like use `hcat:` as the prefix).
 
 - Examples:
