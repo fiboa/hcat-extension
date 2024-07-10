@@ -40,8 +40,8 @@ The properties in the table below can be used in these parts of fiboa documents:
 
 | Property Name      | Type   | Description |
 | ------------------ | ------ | ----------- |
-| ec:hcat_name       | string | **REQUIRED**. The machine-readable HCAT name of the crop |
-| ec:hcat_code       | uint32 | **REQUIRED**. The 10-digit HCAT code indicating the hierarchy of the crop |
+| ec:hcat_name       | string | The machine-readable HCAT name of the crop |
+| ec:hcat_code       | uint32 | The 10-digit HCAT code indicating the hierarchy of the crop |
 | ec:translated_name | string | The original crop name translated into English |
 
 ## Contributing
