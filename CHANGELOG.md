@@ -27,6 +27,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 - ...
 
+## [v0.2.0] - 2024-11-21
+
+- Backwards incompatible change: change `ec:` prefix to `hcat:`. Properties are now `hcat:code`, `hcat:name`, `hcat:name_en`.
+
 ## [v0.1.0] - 2024-03-01
 
 - First release

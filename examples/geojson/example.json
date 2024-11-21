@@ -90,9 +90,9 @@
         "code_culture": "VRC",
         "code_group": 21,
         "determination_datetime": "2018-01-15T00:00:00Z",
-        "ec:translated_name": "Vine: wine grapes",
-        "ec:hcat_name": "vineyards_wine_vine_rebland_grapes",
-        "ec:hcat_code": 3303060000
+        "hcat:code": 3303060000,
+        "hcat:name": "vineyards_wine_vine_rebland_grapes",
+        "hcat:name_en": "Vine: wine grapes"
     },
     "links":
     [
