@@ -27,7 +27,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 - ...
 
-## [v0.2.0] - 2024-11-21
+## [v0.2.0] - 2025-03-05
 
 - Backwards incompatible change: change `ec:` prefix to `hcat:`. Properties are now `hcat:code`, `hcat:name`, `hcat:name_en`.
 
@@ -35,5 +35,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 - First release
 
-[Unreleased]: <https://github.com/fiboa/hcat-extension/compare/v0.1.0...main>
+[Unreleased]: <https://github.com/fiboa/hcat-extension/compare/v0.2.0...main>
+[v0.2.0]: <https://github.com/fiboa/hcat-extension/compare/v0.1.0...v0.2.0>
 [v0.1.0]: <https://github.com/fiboa/hcat-extension/tree/v0.1.0>
