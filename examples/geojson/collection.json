@@ -1,6 +1,0 @@
-{
-  "fiboa_version": "0.2.0",
-  "fiboa_extensions": [
-    "https://fiboa.github.io/hcat-extension/v0.2.0/schema.yaml"
-  ]
-}
