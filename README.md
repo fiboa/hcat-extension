@@ -1,7 +1,7 @@
 # Hierarchical Crop and Agriculture Taxonomy Extension Specification
 
 - **Title:** Hierarchical Crop and Agriculture Taxonomy Extension
-- **Identifier:** <https://fiboa.github.io/hcat-extension/v0.3.0/schema.yaml>
+- **Identifier:** <https://fiboa.org/hcat-extension/v0.3.0/schema.yaml>
 - **Property Name Prefix:** hcat
 - **Extension Maturity Classification:** Proposal
 - **Owner**: @cholmes @ivorbosloper
