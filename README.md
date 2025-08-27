@@ -1,13 +1,14 @@
 # Hierarchical Crop and Agriculture Taxonomy Extension Specification
 
 - **Title:** Hierarchical Crop and Agriculture Taxonomy Extension
-- **Identifier:** <https://fiboa.github.io/hcat-extension/v0.2.0/schema.yaml>
+- **Identifier:** <https://fiboa.org/hcat-extension/v0.3.0/schema.yaml>
 - **Property Name Prefix:** hcat
 - **Extension Maturity Classification:** Proposal
 - **Owner**: @cholmes @ivorbosloper
 
 This document explains the Hierarchical Crop and Agriculture Taxonomy (HCAT) Extension to the
-[Field Boundaries for Agriculture (fiboa) Specification](https://github.com/fiboa/specification).
+[Field Boundaries for Agriculture (fiboa)](https://fiboa.org) and
+[Vecorel](https://vecorel.org) specifications.
 
 The Hierarchical Crop and Agriculture Taxonomy (HCAT) was defined by the
 [Eurocrops](https://github.com/maja601/EuroCrops) project,
@@ -31,11 +32,6 @@ more descriptive, and fit with the 'Fiboa style'.
 - [Changelog](./CHANGELOG.md)
 
 ## Properties
-
-The properties in the table below can be used in these parts of fiboa documents:
-
-- [ ] Collection
-- [x] Feature Properties
 
 | Property Name | Type   | Description                                                 |
 |---------------|--------|-------------------------------------------------------------|
